@@ -1,2 +1,2 @@
 # Timer
-Simply Timer on WPF
+Simply WPF Timer
